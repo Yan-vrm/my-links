@@ -1,0 +1,60 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+    font-family: sans-serif;
+}
+
+img{
+    border-radius: 20px;
+    width: 320px;
+    height: 320px;
+}
+
+h1{
+    color: aliceblue;
+    margin-top: 31px;
+    margin-bottom: 8px;
+}
+
+p{
+    color: aliceblue;
+}
+
+ul{
+    margin-top: 35px;
+}
+
+li{
+    margin-bottom: 18px;
+    list-style: none;
+}
+
+a{
+    background-color: rgb(39, 211, 12);
+    color: aliceblue;
+    padding: 15px; 
+    text-shadow: gray 2px 2px 2px ;
+    text-decoration: none;
+    display: block;
+    border-radius: 5px;
+}
+
+footer{
+    color: aliceblue;
+    margin-bottom: 5px;
+    font-size: 12pt;
+}
+
+.container{
+    width: 320px;
+    text-align: center;
+    margin-top: 41px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
